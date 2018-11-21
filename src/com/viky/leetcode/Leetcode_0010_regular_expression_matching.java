@@ -2,7 +2,7 @@ package com.viky.leetcode;
 
 import javax.print.attribute.standard.RequestingUserName;
 
-public class Leetcode_10_regular_expression_matching {
+public class Leetcode_0010_regular_expression_matching {
 	/**
 	 * 
 		给定一个字符串 (s) 和一个字符模式 (p)。实现支持 '.' 和 '*' 的正则表达式匹配。
