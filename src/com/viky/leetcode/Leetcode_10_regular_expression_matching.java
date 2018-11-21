@@ -1,6 +1,8 @@
 package com.viky.leetcode;
 
-public class Leetcode_10_正则表达式匹配 {
+import javax.print.attribute.standard.RequestingUserName;
+
+public class Leetcode_10_regular_expression_matching {
 	/**
 	 * 
 		给定一个字符串 (s) 和一个字符模式 (p)。实现支持 '.' 和 '*' 的正则表达式匹配。
@@ -19,7 +21,7 @@ public class Leetcode_10_正则表达式匹配 {
 	 */
 	class Solution {
 	    public boolean isMatch(String s, String p) {
-	        
+	       return false;
 	    }
 	}
 }

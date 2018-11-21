@@ -9,7 +9,7 @@ import java.util.Map;
 import org.junit.Test;
 
 
-public class Leetcode_1_两数之和 { 
+public class Leetcode_1_two_sum { 
 	@Test
 	public void Test1(){
 		int[] nums = new int[]{2, 7, 11, 15};

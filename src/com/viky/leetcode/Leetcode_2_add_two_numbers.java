@@ -10,7 +10,7 @@ import org.junit.Test;
 import org.omg.CORBA.PUBLIC_MEMBER;
  
 
-public class Leetcode_2_两数相加 {
+public class Leetcode_2_add_two_numbers {
 
 	
 	@Test
